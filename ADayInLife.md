@@ -1,4 +1,3 @@
-A day in life pseudocode
 
 start day when alarm buzzes;
 Get up from bed;
